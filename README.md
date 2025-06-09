@@ -1,5 +1,6 @@
 # zed-mustache
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 Mustache syntax highlighting support for [Zed](https://github.com/zed-industries/zed).
 
 - Tree-sitter: [TheLeoP/tree-sitter-mustache](https://github.com/TheLeoP/tree-sitter-mustache)
