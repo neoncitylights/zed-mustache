@@ -1,9 +1,11 @@
 # zed-mustache
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-Mustache syntax highlighting support for [Zed](https://github.com/zed-industries/zed).
+[Mustache](https://mustache.github.io/) syntax highlighting support for [Zed](https://github.com/zed-industries/zed).
 
 - Tree-sitter: [TheLeoP/tree-sitter-mustache](https://github.com/TheLeoP/tree-sitter-mustache)
+- Mustache manual: [mustache(5)](https://mustache.github.io/mustache.5.html)
+- Mustache specification: [mustache/spec](https://github.com/mustache/spec)
 
 ## License
 This software is licensed under the MIT license ([`LICENSE`](./LICENSE) or <https://opensource.org/license/mit/>).
