@@ -1,0 +1,11 @@
+id = "zed-mustache"
+name = "Mustache Support"
+version = "0.0.1"
+schema_version = 1
+authors = ["Samantha Nguyen <contact@samanthanguyen.me>"]
+description = "Mustache syntax highlighting support"
+repository = "https://github.com/neoncitylights/zed-mustache"
+
+[grammars.mustache]
+repository = "https://github.com/TheLeoP/tree-sitter-mustache"
+rev = "c59d74305c870acc8817c3b23258fad96647c914"

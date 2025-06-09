@@ -1,0 +1,8 @@
+name = "Mustache"
+grammar = "mustache"
+path_suffixes = ["mustache"]
+block_comment = ["{{!", "}}"]
+brackets = [
+	{ start = "<", end = ">", close = false, newline = true, not_in = ["comment"] },
+    { start = "{", end = "}", close = true, newline = true }
+]
