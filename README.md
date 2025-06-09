@@ -7,6 +7,16 @@
 - Mustache manual: [mustache(5)](https://mustache.github.io/mustache.5.html)
 - Mustache specification: [mustache/spec](https://github.com/mustache/spec)
 
+## Developing
+1. Clone repository
+2. Open Zed editor
+3. Open Command palette (Cmd+Shift+P on MacOS, Ctrl+Shift+P on Linux)
+4. Type "Zed: extensions" and press enter
+5. Press "Install dev extension" button (in top right corner)
+6. Select this repository directory, then start testing
+
+You can test syntax highlighting with files in the `tests` directory. These test files are borrowed from the official Ruby implementation ([mustache/mustache](https://github.com/mustache/mustache)) of Mustache in the `test/fixtures` directory.
+
 ## License
 This software is licensed under the MIT license ([`LICENSE`](./LICENSE) or <https://opensource.org/license/mit/>).
 
