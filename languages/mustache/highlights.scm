@@ -13,7 +13,9 @@
 	"."
 	"#"
 	"^"
-] @punctuation
+	"&"
+	"/"
+] @punctuation.special
 
 [
 	(start_delimiter)
