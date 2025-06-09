@@ -10,8 +10,8 @@
 ## Developing
 1. Clone repository
 2. Open Zed editor
-3. Open Command palette (Cmd+Shift+P on MacOS, Ctrl+Shift+P on Linux)
-4. Type "Zed: extensions" and press enter
+3. Open Command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on MacOS, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on Linux)
+4. Type "zed: extensions" and press <kbd>enter</kbd>
 5. Press "Install dev extension" button (in top right corner)
 6. Select this repository directory, then start testing
 
