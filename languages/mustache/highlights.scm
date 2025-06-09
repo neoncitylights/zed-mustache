@@ -2,7 +2,6 @@
 (identifier) @identifier
 [
 	(tag_name)
-	(triple_statement)
 	(set_delimiter_statement)
 	(inverted_section)
 ] @tag
