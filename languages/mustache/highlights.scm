@@ -2,8 +2,9 @@
 (identifier) @identifier
 [
 	(tag_name)
-	(set_delimiter_statement)
 	(inverted_section)
+	(ampersand_statement)
+	(set_delimiter_statement)
 ] @tag
 (partial_statement) @constant
 
