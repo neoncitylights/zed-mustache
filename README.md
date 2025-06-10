@@ -11,9 +11,8 @@
 1. Clone repository
 2. Open Zed editor
 3. Open Command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on MacOS, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> on Linux)
-4. Type "zed: extensions" and press <kbd>enter</kbd>
-5. Press "Install dev extension" button (in top right corner)
-6. Select this repository directory, then start testing
+4. Type "zed: install dev extension" and press <kbd>enter</kbd>
+5. Select this repository directory, then start testing
 
 You can test syntax highlighting with files in the `tests` directory. These test files are borrowed from the official Ruby implementation ([mustache/mustache](https://github.com/mustache/mustache)) of Mustache in the `test/fixtures` directory.
 
