@@ -1,4 +1,4 @@
-id = "zed-mustache"
+id = "mustache"
 name = "Mustache Support"
 version = "0.0.1"
 schema_version = 1
