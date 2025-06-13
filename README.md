@@ -15,8 +15,8 @@
 5. Select this repository directory, then start testing
 
 ### Tips
-- To rebuild your extension, press "Rebuild" on the page from "zed: extensions" (Command Palette)
-- To make it easier to debug, you can open "dev: open syntax tree view" (Command Palette) to see the generated Tree-Sitter Query AST.
+- To rebuild your extension, press "Rebuild" on the page from "zed: extensions" (Command Palette).
+- To see the generated Tree-Sitter Query AST, open "dev: open syntax tree view" (Command Palette).
 - You can test syntax highlighting with files in the `tests` directory. These test files are borrowed from the official Ruby implementation ([mustache/mustache](https://github.com/mustache/mustache)) of Mustache in the `test/fixtures` directory.
 
 ## License
