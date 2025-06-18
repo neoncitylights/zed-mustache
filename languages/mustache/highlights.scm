@@ -1,11 +1,6 @@
 (comment_statement) @comment
-(identifier) @identifier
-[
-	(tag_name)
-	(inverted_section)
-	(ampersand_statement)
-	(set_delimiter_statement)
-] @tag
+(identifier) @variable.special
+(tag_name) @tag
 (partial_statement) @constant
 
 [
@@ -22,3 +17,6 @@
 	(start_delimiter)
 	(end_delimiter)
 ] @punctuation.delimiter
+
+(path_expression
+	(identifier) @property)
